@@ -25,7 +25,7 @@ SECRET_KEY = '*a6%rch#iqebt8^0071for#0=ho$fi-r&yx3d8k(6mly918ejt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['https://papertradelive.herokuapp.com','0.0.0.0']
 
 
 # Application definition
